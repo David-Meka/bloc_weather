@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This flutter project uses bloc state management to interact to with weather APIS
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
